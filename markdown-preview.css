@@ -6,23 +6,5 @@ code,
 kbd,
 pre {
     font-family: Fira Code, monospace;
-    font-size: 0.95em;
+    font-size: 0.9em;
 }
-
-/* Light theme */
-body.vscode-light h1 { color: #333; }
-body.vscode-light h2 { color: teal; }
-body.vscode-light h3 { color: maroon; }
-body.vscode-light h4 { color: darkgray; }
-
-/* Dark theme */
-body.vscode-dark h1 { color: #ccc; }
-body.vscode-dark h2 { color: #5fd7d7; }
-body.vscode-dark h3 { color: #ff8787; }
-body.vscode-dark h4 { color: #a0a0a0; }
-
-/* High-contrast theme */
-body.vscode-high-contrast h1 { color: #fff; }
-body.vscode-high-contrast h2 { color: #5fffff; }
-body.vscode-high-contrast h3 { color: #ffafaf; }
-body.vscode-high-contrast h4 { color: #d0d0d0; }
