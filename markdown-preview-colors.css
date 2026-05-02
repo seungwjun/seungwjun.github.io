@@ -1,11 +1,11 @@
 /* Light theme */
-body.vscode-light h1 { color: #333; }
+body.vscode-light h1 { color: navy; }
 body.vscode-light h2 { color: teal; }
-body.vscode-light h3 { color: maroon; }
+body.vscode-light h3 { color: sienna; }
 body.vscode-light h4 { color: darkgray; }
 
 /* Dark theme */
-body.vscode-dark h1 { color: #ccc; }
+body.vscode-dark h1 { color: #a8c0e8; }
 body.vscode-dark h2 { color: #5fd7d7; }
 body.vscode-dark h3 { color: #ff8787; }
 body.vscode-dark h4 { color: #a0a0a0; }
