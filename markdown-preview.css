@@ -9,9 +9,9 @@ body {
 }
 
 h1:first-of-type { margin-top: 0.2em; }
-h1, h2, h3, h4   { margin-top: 1em; }
 h1, h2           { font-weight: 500; }
 h3, h4, h5, h6   { font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { margin-top: 1em; }
 
 code, kbd, pre {
     font-family: JetBrains Mono, Fira Code, monospace;
