@@ -30,3 +30,8 @@ blockquote p {
 b, strong {
     font-weight: 500;
 }
+
+p.code-line:has(+ ul.code-line),
+p.code-line:has(+ ol.code-line) {
+  margin-bottom: 0.5em;
+}

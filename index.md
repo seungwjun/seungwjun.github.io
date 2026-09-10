@@ -49,13 +49,17 @@ The fenced block should use the same monospace font family as inline code.
 
 ## Common Markdown Elements
 
+The following are a list of random things:
 - Unordered list item with `inline code`
 - Another item with **emphasis**
 - Final item with a number: 42
 
+And then another list:
 1. First ordered item
 2. Second ordered item
 3. Third ordered item
+
+A regular paragraph.
 
 > This blockquote provides surrounding content for checking contrast and spacing.
 
