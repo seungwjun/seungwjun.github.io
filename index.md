@@ -34,6 +34,8 @@ These elements should use the reduced bold weight from the stylesheet.
 
 ## Code Block
 
+Lorem Ipsum paragraph.
+
 ```css
 body {
     font-size: 14px;
