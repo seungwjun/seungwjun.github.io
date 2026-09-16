@@ -24,7 +24,11 @@ code {
 
 /* Code block padding was too large (16px). */
 div.markdown-body pre:has(> code) {
-    padding: 0.5em 1em;
+    padding: 0.5em 1.5em;
+}
+
+ul, ol {
+    padding-inline-start: 1.5em;
 }
 
 /* Quote blocks didn't have any padding. */
