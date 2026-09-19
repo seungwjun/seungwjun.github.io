@@ -43,5 +43,10 @@ b, strong {
 
 p.code-line:has(+ ul.code-line),
 p.code-line:has(+ ol.code-line) {
-  margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* iframe elements break in VS Code markdown preview. */
+iframe {
+    display: none !important;
 }
